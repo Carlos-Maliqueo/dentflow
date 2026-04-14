@@ -2,7 +2,7 @@
 
 Dashboard de gestión para clínicas dentales construido con Next.js 14, TypeScript y Tailwind CSS.
 
-**Demo en vivo:** [dentflow-two.vercel.app](https://dentflow.vercel.app)
+**Demo en vivo:** [dentflow-two.vercel.app](https://dentflow-two.vercel.app)
 
 ## Funcionalidades
 
